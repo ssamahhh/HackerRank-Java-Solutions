@@ -5,7 +5,7 @@ This repository contains my solutions to Java challenges from HackerRank.
 📌 Topics included:
     oop
 
-    |------------------------------------------------|
+   _______________________________________________________________________
     
 
 
