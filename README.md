@@ -3,11 +3,9 @@
 This repository contains my solutions to Java challenges from HackerRank.
 
 📌 Topics included:
--OOP:
-    Inheritance
-    Abstract
-    Interface
-    Override
+    oop
+
+    #------------------------------------------------
     
 
 
